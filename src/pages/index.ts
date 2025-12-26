@@ -1,0 +1,9 @@
+export { POSPage } from './POS';
+export { ProductsPage } from './Products';
+export { ReportsPage } from './Reports';
+export { PurchasesPage } from './Purchases';
+export { ReturnsPage } from './Returns';
+export { CustomersPage } from './Customers';
+export { SuppliersPage } from './Suppliers';
+export { CashboxPage } from './Cashbox';
+export { SettingsPage } from './Settings';

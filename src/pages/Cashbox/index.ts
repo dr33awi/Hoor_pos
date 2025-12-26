@@ -1,0 +1,1 @@
+export { CashboxPage } from './CashboxPage';
